@@ -8,11 +8,12 @@ a:hover
     background-color:rgb(254, 223, 225);
 }
 
-#i:hover
+a i:hover
 {
     background-color:rgb(254, 223, 225);
 }
-ul a:hover
+
+ul a i:hover
 {
     background-color:rgb(254, 223, 225);
 }
