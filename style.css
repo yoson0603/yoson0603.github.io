@@ -8,9 +8,18 @@ a:hover
     background-color:rgb(254, 223, 225);
 }
 
+a i
+{
+    color:rgb(203, 27, 69)
+}
+
 a i:hover
 {
     background-color:rgb(254, 223, 225);
+}
+#ab
+{
+    color: rgb(17, 50, 133);
 }
 
 ul a i:hover
@@ -20,5 +29,5 @@ ul a i:hover
 
 p
 {
-    color: rgb(11, 16, 19);
+    color: rgb(33, 30, 85);
 }
