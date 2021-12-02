@@ -8,7 +8,16 @@ a:hover
     background-color:rgb(254, 223, 225);
 }
 
+#i:hover
+{
+    background-color:rgb(254, 223, 225);
+}
 ul a:hover
 {
     background-color:rgb(254, 223, 225);
+}
+
+p
+{
+    color: rgb(11, 16, 19);
 }
