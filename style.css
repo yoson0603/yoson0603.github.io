@@ -35,10 +35,10 @@ p
 
 .line
 {
-    font-size: x-large;
+    font-size: xx-large;
     background-color:rgb(245, 150, 170) ;
-    margin: -10px -10px 10px -10px;
-    padding: 10px 0px 10px 0px;
+    margin: -0.6% -10% 0% -0.5%;
+    padding: 1% 0% 1% 1%;
 }
 
 .mid
@@ -46,7 +46,7 @@ p
     text-align: center;
 }
 
-.moveright
+.text
 {
-    margin-left: 25%;
+    margin: 0% 30% 0% 30%;
 }
