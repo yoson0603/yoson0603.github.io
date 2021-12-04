@@ -18,12 +18,13 @@ a i:hover
 {
     background-color:rgb(254, 223, 225);
 }
+
 #ab
 {
     color: rgb(17, 50, 133);
 }
 
-ul a i:hover
+ul a:hover
 {
     background-color:rgb(254, 223, 225);
 }
