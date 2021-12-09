@@ -38,6 +38,16 @@ p
     padding: 1% 0% 1% 1%;
 }
 
+a span
+{
+    background-color:rgb(245, 150, 170) ;
+}
+
+a ion-icon
+{
+    background-color:rgb(245, 150, 170) ;
+}
+
 .mid
 {
     text-align: center;
